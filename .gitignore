@@ -1,0 +1,5 @@
+Vestas FAQ en SW/
+.venv/
+__pycache__/
+.vscode/
+database/
